@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashutosh74554
-- 🌱 I’m currently learning Android development
+- 🌱 Android development enthusiast
 - B.Tech 3rd year student in ITER, SoA, Bhubaneswar, Odisha
 - Proud Indian
 <!---
