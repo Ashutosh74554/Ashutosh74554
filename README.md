@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh74554" alt="ashutosh74554" /></a> </p>
 
-- 🌱 I’m currently learning **React.js and Node.js**
-
-- 💬 Ask me about **Android Development, Blockchain**
+- 💬 Ask me about **Android Development, Blockchain, Spring boot**
 
 - 📫 How to reach me **ashutoshdash1437@gmail.com**
 
