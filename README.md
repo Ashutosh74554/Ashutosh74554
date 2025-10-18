@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! 👋, I'm Ashutosh Dash</h1>
-<h3 align="center">A passionate CS undergraduate from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh74554&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh74554" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh74554" alt="ashutosh74554" /></a> </p>
 
-- 💬 Ask me about **Android Development, Blockchain, Spring boot**
+- 💬 Ask me about **Springboot, Blockchain, Android Development**
 
 - 📫 How to reach me **ashutoshdash1437@gmail.com**
 
