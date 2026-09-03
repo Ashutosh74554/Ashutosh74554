@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashutosh74554" alt="ashutosh74554" /></a> </p>
 
-- 💬 Ask me about **Springboot, Blockchain, Android Development**
+- 💬 Ask me about **Springboot, Java, Python, Blockchain, Android Development**
 
 - 📫 How to reach me **ashutoshdash1437@gmail.com**
 
